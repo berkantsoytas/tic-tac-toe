@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-![TictacToe](./tictactoe.png)
+![TictacToe](https://raw.githubusercontent.com/berkantsoytas/tic-tac-toe/master/tictactoe.PNG)
